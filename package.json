@@ -1,27 +1,23 @@
 {
-  "name": "MY_LIBRARY",
+  "name": "angular-disable-animate",
   "version": "0.0.1",
-  "description": "My_library_description",
+  "description": "An Angular directive that disables ng-animate on selected elements.",
   "keywords": [
     "angular",
-    "angular-flickity",
-    "flickity",
-    "flickity.js",
-    "angular.js",
-    "swipe",
-    "slideshow",
-    "slider",
-    "carousel",
-    "touch"
+    "angular",
+    "disable",
+    "animation",
+    "animate",
+    "ngAnimate"
   ],
   "author": "Benjamin Charity <ben@benjamincharity.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benjamincharity/MY_LIBRARY/issues"
+    "url": "https://github.com/benjamincharity/angular-disable-animate/issues"
   },
-  "homepage": "https://github.com/benjamincharity/MY_LIBRARY",
+  "homepage": "https://github.com/benjamincharity/angular-disable-animate",
   "main": [
-    "dist/MY_LIBRARY.js"
+    "dist/angular-disable-animate.js"
   ],
   "scripts": {
     "build": "npm run build:js && npm run build:css",
@@ -36,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benjamincharity/MY_LIBRARYy.git"
+    "url": "https://github.com/benjamincharity/angular-disable-animate.git"
   },
   "dependencies": {
     "webpack-dev-server": "^1.14.1"
