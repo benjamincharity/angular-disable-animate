@@ -1,0 +1,25 @@
+{
+    "name": "angular-disable-animate",
+    "homepage": "https://github.com/benjamincharity/angular-disable-animate",
+    "authors": [
+        "Benjamin Charity <ben@benjamincharity.com>"
+    ],
+    "description": "My_library_description",
+    "keywords": [
+        "angular",
+        "KEYWORDS",
+    ],
+    "license": "MIT",
+    "main": "dist/angular-disable-animate.js",
+    "dependencies": {
+        "angular": "~1.4.0"
+    },
+    "ignore": [
+        "**/.*",
+        "src",
+        "node_modules",
+        "package.json",
+        "webpack.config.js"
+    ]
+}
+
