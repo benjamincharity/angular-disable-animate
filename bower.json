@@ -10,6 +10,7 @@
     "main": "dist/angular-disable-animate.js",
     "keywords": [
         "angular",
+        "angularjs",
         "disable",
         "animation",
         "animate",
