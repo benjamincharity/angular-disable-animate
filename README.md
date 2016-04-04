@@ -29,7 +29,7 @@ Include the JavaScript file in the head of your document:
 ### Scripts
 
 * `npm run build` - produces production version of your library under the `dist` folder
-* `npm run dev` - produces development version of your library under the `dist` folder and runs a
+* `npm run watch` - produces development version of your library under the `dist` folder and runs a
     watcher
 
 
