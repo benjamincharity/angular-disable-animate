@@ -24,6 +24,9 @@ Include the JavaScript file in the head of your document:
 
 ## Usage
 
+```html
+<div bc-disable-animate>Foo</div>
+```
 
 
 ### Scripts
