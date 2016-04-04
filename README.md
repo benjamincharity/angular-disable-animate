@@ -7,6 +7,10 @@ tiny directive is the result of that need and the dislike for copy & pasting cod
 
 Further reading: [$animate documentation][animate_docs]
 
+- - -
+
+_[Comments and Pull Requests welcome!][issues]_
+
 ## Installation
 
 ```
@@ -37,4 +41,5 @@ Include the JavaScript file in the head of your document:
 
 
 [animate_docs]: https://docs.angularjs.org/api/ng/service/$animate
+[issues]: https://github.com/benjamincharity/angular-disable-animate/issues
 
