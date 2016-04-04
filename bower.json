@@ -1,10 +1,13 @@
 {
+    "version": "1.0.0",
     "name": "angular-disable-animate",
+    "description": "An Angular directive that disables ng-animate on selected elements.",
     "homepage": "https://github.com/benjamincharity/angular-disable-animate",
     "authors": [
         "Benjamin Charity <ben@benjamincharity.com>"
     ],
-    "description": "An Angular directive that disables ng-animate on selected elements.",
+    "license": "MIT",
+    "main": "dist/angular-disable-animate.js",
     "keywords": [
         "angular",
         "disable",
@@ -12,8 +15,6 @@
         "animate",
         "ngAnimate"
     ],
-    "license": "MIT",
-    "main": "dist/angular-disable-animate.js",
     "dependencies": {
         "angular": "~1.4.0"
     },
