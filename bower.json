@@ -4,10 +4,13 @@
     "authors": [
         "Benjamin Charity <ben@benjamincharity.com>"
     ],
-    "description": "My_library_description",
+    "description": "An Angular directive that disables ng-animate on selected elements.",
     "keywords": [
         "angular",
-        "KEYWORDS",
+        "disable",
+        "animation",
+        "animate",
+        "ngAnimate"
     ],
     "license": "MIT",
     "main": "dist/angular-disable-animate.js",
