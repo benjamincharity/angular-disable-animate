@@ -28,6 +28,14 @@ Include the JavaScript file in the head of your document:
 
 ## Usage
 
+Include the module as a dependency of your application:
+
+```
+angular.module('myModule', ['bc.AngularDisableAnimate']);
+```
+
+Use directive as an attribute:
+
 ```html
 <div bc-disable-animate>Foo</div>
 ```
