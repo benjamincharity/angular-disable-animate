@@ -1,6 +1,6 @@
 # angular-disable-animate
 
-An Angular directive that disables ng-animate on selected elements.
+> An Angular directive that disables ng-animate.
 
 In the past I have needed a way to easily disable Angular's `$animate` for a specific element. This
 tiny directive is the result of that need and the dislike for copy & pasting code across projects.
@@ -9,11 +9,11 @@ Further reading: [$animate documentation][animate_docs]
 
 - - -
 
-_[Comments and Pull Requests welcome!][issues]_
+_[Comments and pull requests welcome!][issues]_
 
 ## Installation
 
-```
+```bash
 $ bower install angular-disable-animate --save
 $ npm install angular-disable-animate --save
 ```
@@ -22,7 +22,7 @@ Or
 
 Include the JavaScript file in the head of your document:
 
-```
+```html
 <script src="angular-disable-animate.js"></script>
 ```
 
@@ -30,7 +30,7 @@ Include the JavaScript file in the head of your document:
 
 Include the module as a dependency of your application:
 
-```
+```javascript
 angular.module('myModule', ['bc.AngularDisableAnimate']);
 ```
 
