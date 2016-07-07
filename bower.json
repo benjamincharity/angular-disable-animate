@@ -1,5 +1,4 @@
 {
-    "version": "1.0.0",
     "name": "angular-disable-animate",
     "description": "An Angular directive that disables ng-animate on selected elements.",
     "homepage": "https://github.com/benjamincharity/angular-disable-animate",
